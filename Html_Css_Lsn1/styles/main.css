@@ -1,0 +1,37 @@
+/*Всі картинки повінні мати ширину від 200 до 400 пікселів.*/
+/*кожен елемент окрім картинок повинен мати background та color.*/
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.bgrnd_clr{
+    color: #771eff;
+    background: #f1ff07;
+    font-size: 40px;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+}
+
+h1{
+    /*text-align: center;*/
+    background: #f1ff07;
+    font-size: 70px;
+    color: red;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start:20px;
+    margin-inline-end: 20px;
+    font-weight: 900;
+}
+
+
+.imgs{
+    width: 400px;
+}
+
+.double_style{
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+}
