@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Майже завершив.">
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)">
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -40,6 +47,9 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,7 +78,8 @@
       <updated>1673990879680</updated>
       <workItem from="1674026941815" duration="9374000" />
       <workItem from="1674053864057" duration="176000" />
-      <workItem from="1674065020222" duration="11930000" />
+      <workItem from="1674065020222" duration="12342000" />
+      <workItem from="1674083097472" duration="416000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -119,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674078840917</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)">
+      <created>1674081974494</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674081974494</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +160,7 @@
     <MESSAGE value="Допрацювати класи, добавити інший фон можливо на інші параграфи. 40% готово." />
     <MESSAGE value="Завершив 2 персонажа крім параграфу для барта і цілої Лізи" />
     <MESSAGE value="Майже завершив." />
-    <option name="LAST_COMMIT_MESSAGE" value="Майже завершив." />
+    <MESSAGE value="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)" />
   </component>
 </project>
