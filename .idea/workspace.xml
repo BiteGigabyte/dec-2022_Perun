@@ -7,6 +7,7 @@
     <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Майже завершив.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <updated>1673990879680</updated>
       <workItem from="1674026941815" duration="9374000" />
       <workItem from="1674053864057" duration="176000" />
-      <workItem from="1674065020222" duration="8925000" />
+      <workItem from="1674065020222" duration="11930000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674078069428</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Майже завершив.">
+      <created>1674078840917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674078840917</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

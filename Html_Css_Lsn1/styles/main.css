@@ -7,8 +7,19 @@ body {
 }
 
 a {
-    text-decoration: none;
+    color: #0008ff; /* Колір ссилок */
+    text-decoration: none; /* Забираєм підкреслення */
 }
+
+a:hover {
+    /*border-bottom: 1px dashed blue;*/ /* Добавляем синє пунктирне підкреслення */
+    text-decoration: underline;
+}
+
+/*a:hover {
+    text-decoration: none;
+    color: #0008ff;
+}*/
 
 .bgrnd_clr {
     color: #771eff;
@@ -23,16 +34,10 @@ a {
 }
 
 h1 {
-    /*text-align: center;*/
     margin: auto;
     background: #f1ff07;
     font-size: 70px;
     color: red;
-    /*    margin-block-start: 0.5em;
-        margin-block-end: 0.5em;
-        margin-inline-start:20px;
-        margin-inline-end: 20px;
-        font-weight: 900*/;
     width: 700px;
 }
 
@@ -43,8 +48,6 @@ h1 {
 
 .double_style {
     width: 250px;
-/*    margin-inline-start: 50px;
-    margin-inline-end: 50px;*/
     margin: auto;
 }
 
@@ -52,6 +55,7 @@ h1 {
     /*margin: 3%;*/
     text-align: left;
     margin-top: 7px;
+    list-style-position: inside;
+    color: #001170;
 }
-
 
