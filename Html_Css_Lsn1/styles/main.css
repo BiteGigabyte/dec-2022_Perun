@@ -3,7 +3,7 @@
 
 body{
     text-align: center;
-    margin: 0px;
+    margin: 0;
 }
 
 .bgrnd_clr{
@@ -12,6 +12,8 @@ body{
     font-size: 40px;
     margin-inline-start: 20px;
     margin-inline-end: 20px;
+    text-align: center;
+    /*margin: auto;*/
 }
 
 h1{
@@ -34,4 +36,9 @@ h1{
 .double_style{
     margin-inline-start: 50px;
     margin-inline-end: 50px;
+}
+
+.mrgn{
+    margin: 3%;
+    text-align: left;
 }

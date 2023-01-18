@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Допрацювати класи, добавити інший фон можливо на інші параграфи. 40% готово." />
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Допрацювати класи, добавити інший фон можливо на інші параграфи. 40% готово.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn1/styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KTFsx9f2fp0IdvLD6uqnp988an" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -26,10 +33,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn1/index.html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673990879680</updated>
+      <workItem from="1674026941815" duration="5658000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -53,8 +69,18 @@
       <option name="project" value="LOCAL" />
       <updated>1674008624545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Допрацювати класи, добавити інший фон можливо на інші параграфи. 40% готово.">
+      <created>1674027433533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674027433533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
