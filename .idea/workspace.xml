@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)">
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Learn some English and preparing for the next lesson&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <workItem from="1674026941815" duration="9374000" />
       <workItem from="1674053864057" duration="176000" />
       <workItem from="1674065020222" duration="12342000" />
-      <workItem from="1674083097472" duration="416000" />
+      <workItem from="1674083097472" duration="513000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -137,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674081974494</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Learn some English and preparing for the next lesson&gt;">
+      <created>1674083597231</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674083597231</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +165,7 @@
     <MESSAGE value="Завершив 2 персонажа крім параграфу для барта і цілої Лізи" />
     <MESSAGE value="Майже завершив." />
     <MESSAGE value="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done! Трохи експерементував, трохи може забагато стилів бо все цікаво попробувати і запамятати коли побачиш, тому якщо щось писав не так або щось забагато,або чи можна краще то відпишіть)" />
+    <MESSAGE value="Learn some English and preparing for the next lesson&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn some English and preparing for the next lesson&gt;" />
   </component>
 </project>
