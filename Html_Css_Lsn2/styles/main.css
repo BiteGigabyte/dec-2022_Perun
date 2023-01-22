@@ -10,6 +10,10 @@ body {
 h1, h2, h4 {
     margin: 0;
 }
+h2 {
+    display: flex;
+    align-items: center;
+}
 h4 {
     font-size: 50px;
 }
@@ -19,11 +23,8 @@ h4 {
 .FirstLine {
     display: flex;
     flex-direction: column;
-/*padding: 150px 400px;*/
-/*    flex: 0 1 100%;*/
     height: 250px;
     justify-content: center;
-    /*text-align: center;*/
 }
 
 #SecondLine {
@@ -33,9 +34,7 @@ h4 {
     flex-wrap: wrap;
     column-gap: 20px;
     row-gap: 20px;
-    /*flex-grow: 1;*/
     box-sizing: border-box;
-    /*align-self: center;*/
 }
 
 .SecondBlock {
@@ -46,8 +45,6 @@ h4 {
     max-height: 200px;
     max-width: 300px;
     justify-content: center;
-    /*align-self: center;*/
-    /*align-item:center;*/
 }
 
 .ThirdLine {
