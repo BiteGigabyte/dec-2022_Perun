@@ -1,9 +1,55 @@
 body {
     margin: 0;
+    text-align: center;
 }
+
 .main {
-    background: silver;
     display: flex;
     column-gap: 35px;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+.bloks {
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid #676767;
+    padding: 30px 20px 10px;
+    width: 285px;
+    height: 320px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.FONT {
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+h2 {
+    color: #1f1f1f;
+}
+
+p {
+    font-size: 20px;
+    width: 236px;
+    height: 67px;
+    color: #8c8c8c;
+    padding-bottom: 20px;
+}
+
+a {
+    border: 2px solid black;
+    text-decoration: none; /* Забираєм підкреслення */
+    font-size: 18px;
+    padding: 10px 49px;
+    color: #1f1f1f;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
 }
