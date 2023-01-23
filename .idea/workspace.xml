@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="1/2 Done! /Відцентрував h2 за допомогою align-items: center та добавив display:flex. /demo1/2 готово/ Ще добавив height ta width для h2 бо портили елемент div та відрізнялись розміри в 3х одипакових і border box не допомагав">
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="1/2 Done/ Видалив 1 border-box лишній/ Та відкоректував psdding для div в якому h2">
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn2/cardN1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn2/cardN1/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn2/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn2/blue_blocks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn2/blue_blocks/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,34 +41,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn2/index.html&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn2/cardN1/index.html",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1\styles\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn2\blue_blocks" />
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1" />
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1\styles\images" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn2/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn2/cardN1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -86,7 +92,7 @@
       <workItem from="1674386337693" duration="4198000" />
       <workItem from="1674394229408" duration="31968000" />
       <workItem from="1674462715275" duration="889000" />
-      <workItem from="1674467907693" duration="180000" />
+      <workItem from="1674467907693" duration="2308000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -186,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674463596905</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="1/2 Done/ Видалив 1 border-box лишній/ Та відкоректував psdding для div в якому h2">
+      <created>1674468185496</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674468185496</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +228,7 @@
     <MESSAGE value="Майже завершив (demo1/2). Неможу відцентрувати h2/" />
     <MESSAGE value="Відцентрував h2 за допомогою align-items: center та добавив display:flex. /demo1/2 ніби готово" />
     <MESSAGE value="1/2 Done! /Відцентрував h2 за допомогою align-items: center та добавив display:flex. /demo1/2 готово/ Ще добавив height ta width для h2 бо портили елемент div та відрізнялись розміри в 3х одипакових і border box не допомагав" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/2 Done! /Відцентрував h2 за допомогою align-items: center та добавив display:flex. /demo1/2 готово/ Ще добавив height ta width для h2 бо портили елемент div та відрізнялись розміри в 3х одипакових і border box не допомагав" />
+    <MESSAGE value="1/2 Done/ Видалив 1 border-box лишній/ Та відкоректував psdding для div в якому h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/2 Done/ Видалив 1 border-box лишній/ Та відкоректував psdding для div в якому h2" />
   </component>
 </project>
