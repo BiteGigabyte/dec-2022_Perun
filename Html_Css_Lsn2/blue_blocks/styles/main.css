@@ -32,6 +32,7 @@ h4 {
     column-gap: 20px;
     row-gap: 20px;
 }
+
 h2 {
     display: flex;
     align-items: center;
@@ -39,6 +40,7 @@ h2 {
     width: 100px;
     height: 100px;
 }
+
 .SecondBlock {
     display: flex;
     flex-wrap: wrap;
