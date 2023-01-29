@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Виконав 2/2 домашнє 3 по HTML CSS">
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/main.css" afterDir="false" />
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Урок 4 Html Css = зробив завдання 1/2.">
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn4/index.html",
+    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn4/bottom_size/index.html",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,7 +53,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,7 +69,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn4/top_size/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn4/bottom_size/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -102,7 +100,7 @@
       <workItem from="1674743120950" duration="2250000" />
       <workItem from="1674748685282" duration="19607000" />
       <workItem from="1674927565115" duration="9176000" />
-      <workItem from="1674941587267" duration="9091000" />
+      <workItem from="1674941587267" duration="16406000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -237,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674825502771</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Урок 4 Html Css = зробив завдання 1/2.">
+      <created>1674952156990</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674952156990</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +276,7 @@
     <MESSAGE value="Повністю завершив завдання 2/2. Ще дороблю різне збільшення для 3 блоків в лінії в завданні 1/2 але в загальному готово.&#10;- Що не так то підкажіть..." />
     <MESSAGE value="Виконав 1/2 домашнє 3 по HTML CSS" />
     <MESSAGE value="Виконав 2/2 домашнє 3 по HTML CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав 2/2 домашнє 3 по HTML CSS" />
+    <MESSAGE value="Урок 4 Html Css = зробив завдання 1/2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 4 Html Css = зробив завдання 1/2." />
   </component>
 </project>

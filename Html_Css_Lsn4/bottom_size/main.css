@@ -1,0 +1,107 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.main_box {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box_one {
+    background: #000;
+}
+
+.box_two {
+    background: #f1ff07;
+}
+
+.box_three {
+    background: #0eff29;
+}
+
+.box_four {
+    background: #771eff;
+}
+
+.box_five {
+    background: #001170;
+}
+
+.box_six {
+    background: orangered;
+}
+
+@media screen and (min-width: 0) and (max-width: 768px) {
+    .medium_model {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .box_one {
+        width: 100vw;
+        height: 21vh;
+    }
+
+    .box_two {
+        width: 100vw;
+        height: 29vh;
+    }
+
+    .box_three {
+        width: 33.33vw;
+        height: 25vh;
+
+    }
+    .box_four {
+        width: 33.34vw;
+        height: 25vh;
+    }
+    .box_five {
+        width: 33.33vw;
+        height: 25vh;
+    }
+    .box_six {
+        width: 100vw;
+        height: 29vh;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .medium_model {
+        width: 75vw;
+        height: 66vh;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .box_one {
+        width: 100vw;
+        height: 34vh;
+    }
+
+    .box_two {
+        width: 75vw;
+        height: 33vh;
+    }
+
+    .box_three {
+        width: 25vw;
+        height: 33vh;
+    }
+
+    .box_four {
+        width: 25vw;
+        height: 33vh;
+    }
+    .box_five {
+        width: 25vw;
+        height: 33vh;
+    }
+    .box_six {
+        width: 25vw;
+        height: 70vh;
+        min-height: 66vh;
+    }
+}
