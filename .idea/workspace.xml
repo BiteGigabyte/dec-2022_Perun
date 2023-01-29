@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Виконав 1/2 домашнє 3 по HTML CSS">
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Виконав 2/2 домашнє 3 по HTML CSS">
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn3/card2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn3/card2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn3/card2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn3/card2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn3/card2/index.html",
+    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn4/index.html",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +55,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,13 +64,14 @@
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1\styles\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn4\top_size" />
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn2\blue_blocks" />
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1" />
       <recent name="C:\Users\yurii\IdeaProjects\dec-2022_Perun\Html_Css_Lsn1\styles\images" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn3/card2/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn4/top_size/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -97,7 +100,9 @@
       <workItem from="1674724696847" duration="5003000" />
       <workItem from="1674731265664" duration="5308000" />
       <workItem from="1674743120950" duration="2250000" />
-      <workItem from="1674748685282" duration="18808000" />
+      <workItem from="1674748685282" duration="19607000" />
+      <workItem from="1674927565115" duration="9176000" />
+      <workItem from="1674941587267" duration="9091000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -225,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674760913453</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Виконав 2/2 домашнє 3 по HTML CSS">
+      <created>1674825502771</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674825502771</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +270,7 @@
     <MESSAGE value="Почав робити завдання 2/2 та ще повинен зробити різне збільшення та зменшення в завданні 1/2 для 3 блоків в лінії.&#10;- Додати класи.(Html)&#10;- Зробити стилі. (Css)" />
     <MESSAGE value="Повністю завершив завдання 2/2. Ще дороблю різне збільшення для 3 блоків в лінії в завданні 1/2 але в загальному готово.&#10;- Що не так то підкажіть..." />
     <MESSAGE value="Виконав 1/2 домашнє 3 по HTML CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав 1/2 домашнє 3 по HTML CSS" />
+    <MESSAGE value="Виконав 2/2 домашнє 3 по HTML CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав 2/2 домашнє 3 по HTML CSS" />
   </component>
 </project>
