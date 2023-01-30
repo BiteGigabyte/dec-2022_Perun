@@ -1,6 +1,6 @@
 body {
-    width: 100vh;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
 }
 
 .block_one {
@@ -18,41 +18,41 @@ body {
 @media screen and (min-width: 0) and (max-width: 768px) {
 
     .main_body {
-        width: 100vw;
-        height: 100vh;
+        width: 100%;
+        height: 100%;
         display: flex;
         flex-wrap: wrap;
     }
     .block_one {
         width: 100vw;
-        height: 11%;
+        height: 11vh;
     }
     .block_two {
         width: 100vw;
-        height: 70%;
+        height: 70vh;
     }
     .block_three {
         width: 100vw;
-        height: 30%;
+        height: 30vh;
     }
 }
 @media screen and (min-width: 768px) {
     .main_body {
-        width: 100vw;
+        width: 100%;
         height: 100vh;
         display: flex;
         flex-wrap: wrap;
     }
     .block_one {
-        height: 32%;
-        flex: 1 1 100vw;
+        height: 32vh;
+        flex: 1 1 100%;
     }
     .block_two {
-        flex: 1 1 75vw;
-        height: 80%;
+        flex: 1 1 75%;
+        height: 80vh;
     }
     .block_three {
-        flex: 1 1 25vw;
-        height: 80%;
+        flex: 1 1 25%;
+        height: 80vh;
     }
 }

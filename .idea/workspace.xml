@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Урок 4 Html Css = зробив завдання 1/2.">
-      <change afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/main.css" afterDir="false" />
+    <list default="true" id="ac6552ca-652d-43b2-8d42-488b474c075c" name="Changes" comment="Урок 4 Html Css = зробив завдання 2/2. (Але можливо ще щось буду змінювати, якщо ні то здаю на перевірку)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn2/cardN1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn2/cardN1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn4/bottom_size/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html_Css_Lsn4/top_size/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn4/bottom_size/index.html",
+    "last_opened_file_path": "C:/Users/yurii/IdeaProjects/dec-2022_Perun/Html_Css_Lsn4/top_size/index.html",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +71,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn4/bottom_size/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Html_Css_Lsns" type="JavascriptDebugType" uri="http://localhost:63342/dec-2022_Perun/Html_Css_Lsn4/top_size/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -100,7 +102,9 @@
       <workItem from="1674743120950" duration="2250000" />
       <workItem from="1674748685282" duration="19607000" />
       <workItem from="1674927565115" duration="9176000" />
-      <workItem from="1674941587267" duration="16406000" />
+      <workItem from="1674941587267" duration="16484000" />
+      <workItem from="1674994131034" duration="781000" />
+      <workItem from="1675072163701" duration="6126000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1674008472329</created>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674952156990</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Урок 4 Html Css = зробив завдання 2/2. (Але можливо ще щось буду змінювати, якщо ні то здаю на перевірку)">
+      <created>1674985868915</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674985868915</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +288,7 @@
     <MESSAGE value="Виконав 1/2 домашнє 3 по HTML CSS" />
     <MESSAGE value="Виконав 2/2 домашнє 3 по HTML CSS" />
     <MESSAGE value="Урок 4 Html Css = зробив завдання 1/2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 4 Html Css = зробив завдання 1/2." />
+    <MESSAGE value="Урок 4 Html Css = зробив завдання 2/2. (Але можливо ще щось буду змінювати, якщо ні то здаю на перевірку)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 4 Html Css = зробив завдання 2/2. (Але можливо ще щось буду змінювати, якщо ні то здаю на перевірку)" />
   </component>
 </project>
