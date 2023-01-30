@@ -1,11 +1,11 @@
 body {
-    /*width: 100vw;*/
-    /*height: 100vh;*/
+    width: 100%;
+    height: 100%;
 }
 
 .main_box {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
 }
@@ -35,72 +35,75 @@ body {
 }
 
 @media screen and (min-width: 0) and (max-width: 768px) {
-    .medium_model {
-        display: flex;
-        flex-wrap: wrap;
-    }
     .box_one {
-        width: 100vw;
+        width: 100%;
         height: 21vh;
     }
 
+    .medium_model {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
     .box_two {
-        width: 100vw;
+        width: 100%;
         height: 29vh;
     }
 
     .box_three {
-        width: 33.33vw;
+        width: 33.33%;
         height: 25vh;
 
     }
     .box_four {
-        width: 33.34vw;
+        width: 33.33%;
         height: 25vh;
     }
     .box_five {
-        width: 33.33vw;
+        width: 33.34%;
         height: 25vh;
     }
     .box_six {
-        width: 100vw;
+        width: 100%;
         height: 29vh;
     }
 }
 
 
 @media screen and (min-width: 768px) {
+    .box_one {
+        width: 100%;
+        height: 34vh;
+    }
+
     .medium_model {
-        width: 75vw;
+        width: 75%;
         height: 66vh;
         display: flex;
         flex-wrap: wrap;
     }
-    .box_one {
-        width: 100vw;
-        height: 34vh;
-    }
 
     .box_two {
-        width: 75vw;
+        width: 100%;
         height: 33vh;
     }
 
     .box_three {
-        width: 25vw;
+        width: 33.33%;
         height: 33vh;
     }
 
     .box_four {
-        width: 25vw;
+        width: 33.34%;
         height: 33vh;
     }
     .box_five {
-        width: 25vw;
+        width: 33.33%;
         height: 33vh;
     }
     .box_six {
-        width: 25vw;
+        width: 25%;
         height: 70vh;
         min-height: 66vh;
     }
